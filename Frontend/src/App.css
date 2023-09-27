@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Mooli&family=Wavefont&display=swap');
+
+.main {
+    max-width: 500px;
+    height: fit-content;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.Nav {
+    font-family: Mooli;
+}
+
+.box1 {
+    display: flex;
+    flex-flow: row nowrap;
+    margin: 5px;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid black;
+    padding: 5px 10px 5px 10px;
+    border-radius: 8px ;
+}
